@@ -1,0 +1,23 @@
+.portfolio {
+  min-height: 520px;
+
+  /* margin-top: 0px; */
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: start;
+  align-items: center;
+  background-color: lightblue;
+
+}
+
+.portfolio ul {
+  display: flex;
+  flex-direction: column;
+  
+  background-color: lightblue;
+}
+
+.contact{
+  min-height: 520px;
+  background-color: lightblue;
+}
