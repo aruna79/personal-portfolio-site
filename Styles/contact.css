@@ -1,0 +1,10 @@
+.contact {
+
+  min-height: 520px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: start;
+  align-items: center;
+  background-color: lightblue;
+
+}
