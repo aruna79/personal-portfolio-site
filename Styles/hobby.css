@@ -1,0 +1,22 @@
+.hobby {
+  /* min-height: 800px; */
+  min-height: 520px;
+  /* margin-top: 40px; */
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: start;
+  align-items: center;
+  background-color: lightblue;
+
+}
+
+.hobby ul {
+  display: flex;
+  flex-direction: column;
+  /* max-width: 800px;
+  margin: 0 50px; */
+}
+
+.contact{
+  background-color: lightblue;
+}
