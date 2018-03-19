@@ -1,0 +1,26 @@
+
+.about{
+  min-height: 520px;
+  display: table;
+  flex-direction: column;
+  text-align:center;
+  background-color: lightblue;
+  
+}
+.about .col1{
+  display:table-cell;
+  height: 400px;
+  width: 50%;
+  padding:20px;
+}
+.about .col2{
+  display:table-cell;
+  height:400px;
+  width:600px;
+  float:left;
+  white-space:wrap;
+  /* background-color: pink; */
+  font-size: 1;
+  font-style: italic;
+
+}
